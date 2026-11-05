@@ -1,0 +1,6 @@
+Django==5.2.19
+djangorestframework==3.16.1
+drf-yasg==1.21.18
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.9.0
+mysqlclient==2.2.7
